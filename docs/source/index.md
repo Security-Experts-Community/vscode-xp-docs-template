@@ -4,14 +4,14 @@
 
 Это расширение позволяет разрабатывать и тестировать правила в VSCode и VSCodium, а также публиковать их в необходимый для вашего продукта формат.
 
+
 ```{toctree}
 ---
 caption: Содержание
 maxdepth: 4
 ---
-
-gstarted  
-develop  
-testing  
-publish  
+gstarted.md
+develop.md
+testing.md
+publish.md
 ```
